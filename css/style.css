@@ -21,7 +21,7 @@ a, a:hover, a:focus {
 
 h1, h2 {
 	margin-top: 10px;
-	font-size: 38px;
+	font-size: 50px;
     font-weight: 100;
     color: #555;
     line-height: 50px;
@@ -128,17 +128,6 @@ img { max-width: 100%; }
 .form-top-left h3 { margin-top: 0; color: #fff; }
 .form-top-left p { opacity: 0.8; color: #fff; }
 
-.form-top-right {
-	float: left;
-	width: 25%;
-	padding-top: 5px;
-	font-size: 66px;
-	color: #fff;
-	line-height: 100px;
-	text-align: right;
-	opacity: 0.3;
-}
-
 .form-bottom {
 	padding: 25px 25px 30px 25px;
 	background: #444;
@@ -157,18 +146,6 @@ img { max-width: 100%; }
 
 .form-bottom form .input-error {
 	border-color: #de615e;
-}
-
-.social-login {
-	margin-top: 35px;
-}
-
-.social-login h3 {
-	color: #fff;
-}
-
-.social-login-buttons {
-	margin-top: 25px;
 }
 
 
