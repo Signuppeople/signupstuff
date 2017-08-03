@@ -39,6 +39,15 @@ img { max-width: 100%; }
 ::-moz-selection { background: #de615e; color: #fff; text-shadow: none; }
 ::selection { background: #de615e; color: #fff; text-shadow: none; }
 
+#signupdone {
+	display: inline-block;
+	padding: 16px 20px 0 20px;
+	margin: 50px;
+	background: rgba(78, 57, 64, 0.95);
+	color: #fff;
+	font-size: 32px;
+}
+
 
 .btn-link-1 {
 	display: inline-block;
